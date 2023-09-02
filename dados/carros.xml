@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<veiculos>
+    <veiculo>
+        <marca>Fiat</marca>
+        <modelo>Uno</modelo>
+        <ano>2003</ano>
+        <cor>Amarelo</cor>
+        <placa>PX3R440</placa>
+        <quantidade>2</quantidade>
+    </veiculo>
+    <veiculo>
+        <marca>Ford</marca>
+        <modelo>Ecoesport</modelo>
+        <ano>2015</ano>
+        <cor>Prata</cor>
+        <placa>AA3R880</placa>
+        <quantidade>3</quantidade>
+    </veiculo>
+    <veiculo>
+        <marca>Honda</marca>
+        <modelo>Civic</modelo>
+        <ano>2023</ano>
+        <cor>Preto</cor>
+        <placa>AAB1258</placa>
+        <quantidade>1</quantidade>
+    </veiculo>
+    <veiculo>
+        <marca>Chevrolet</marca>
+        <modelo>Cruze</modelo>
+        <ano>2020</ano>
+        <cor>Branco</cor>
+        <placa>LKD6952</placa>
+        <quantidade>5</quantidade>
+    </veiculo>
+    <veiculo>
+        <marca>BMW</marca>
+        <modelo>M3</modelo>
+        <ano>2022</ano>
+        <cor>Branco</cor>
+        <placa>LKD6952</placa>
+        <quantidade>2</quantidade>
+    </veiculo>
+</veiculos>

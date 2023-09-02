@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+    <contribuinte>
+        <cpf>123.456.789.00</cpf>
+        <rg>11.111.111-6</rg>
+        <nome>José Silva</nome>
+        <data_nasc>26/09/1970</data_nasc>
+        <!-- TAG COM SUB TAGS-->
+        <endereco>
+            <logradouro>Rua das Amélias</logradouro>
+            <numero>547</numero>
+            <bairro>Casa Verde</bairro>
+            <cidade>São Paulo</cidade>
+            <uf>SP</uf>
+            <cep>22.547-987</cep>
+        </endereco>
+        <contato>
+            <telefone>(11) 3354-8598</telefone>
+            <celular>(21) 98564-8574</celular>
+            <email>jose.silva@email.com.br</email>
+        </contato>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>548.456.789.00</cpf>
+        <rg>122111.111-6</rg>
+        <nome>José Silva</nome>
+        <data_nasc>12/09/1978</data_nasc>
+        <!-- TAG COM SUB TAGS-->
+        <endereco>
+            <logradouro>Rua das Margaridas</logradouro>
+            <numero>325</numero>
+            <bairro>Butantã</bairro>
+            <cidade>São Paulo</cidade>
+            <uf>SP</uf>
+            <cep>22.547-987</cep>
+        </endereco>
+        <contato>
+            <telefone>(19) 98258-8542</telefone>
+            <celular>(18) 98654-9685</celular>
+            <email>email@email.com.br</email>
+        </contato>
+    </contribuinte>
+    <contribuinte>
+        <cpf>123.456.789.00</cpf>
+        <rg>11.111.111-6</rg>
+        <nome>José Silva</nome>
+        <data_nasc>26/09/1970</data_nasc>
+        <!-- TAG COM SUB TAGS-->
+        <endereco>
+            <logradouro>Rua das Rosas</logradouro>
+            <numero>1854</numero>
+            <bairro>Perus</bairro>
+            <cidade>São Paulo</cidade>
+            <uf>SP</uf>
+            <cep>22.547-987</cep>
+        </endereco>
+        <contato>
+            <telefone>(65) 97485-6231</telefone>
+            <celular>(83) 98845-6532</celular>
+            <email>meuemail@meuemail.com.br</email>
+        </contato>
+    </contribuinte>
+</receita>
